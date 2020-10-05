@@ -1,0 +1,7 @@
+C:\Users\vicen\Source\Repos\Logger\Logger\bin\Debug\Logger.exe.config
+C:\Users\vicen\Source\Repos\Logger\Logger\bin\Debug\Logger.exe
+C:\Users\vicen\Source\Repos\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\vicen\Source\Repos\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\vicen\Source\Repos\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Source\Repos\Logger\Logger\obj\Debug\Logger.exe
+C:\Users\vicen\Source\Repos\Logger\Logger\obj\Debug\Logger.pdb
